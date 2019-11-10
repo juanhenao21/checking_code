@@ -106,3 +106,4 @@ venv.bak/
 # Folders
 data/
 hdf5_dayly_data_2008/
+pickle_dayly_data_2008/
